@@ -1,2 +1,2 @@
 # TgBot
-Bot for teltgram
+Bot for telegram
